@@ -1,4 +1,4 @@
-* lorem ipsum
+*  lorem ipsum
 # Michał Wiśniewski
 
 ## Kim jestem?
